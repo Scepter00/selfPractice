@@ -23,10 +23,14 @@ public class LargestAndSmallestIntegers {
         System.out.print("Enter forth integer: ");
         int num4 = scanner.nextInt();
 
-        System.out.println("Enter fifth integer: ");
+        System.out.print("Enter fifth integer: ");
         int num5 = scanner.nextInt();
 
+        int largest = Math.max(num, Math.max(num2, Math.max(num3, Math.max(num4, num5))));
+        int smallest = Math.min(num, Math.min(num2, Math.min(num3, Math.min(num4, num5))));
 
+        System.out.printf("The smallest is %d%n", smallest);
+        System.out.printf("The largest is %d%n", largest);
     }
 
 }
