@@ -21,7 +21,7 @@ public class Multiples {
             System.out.println("The triple of the first number is: " + num + " The multiple of the second number doubled is: " + num2 + "\n The division of both number is: "  + answer + ".");
             }
         else {
-            System.out.println(answer + " Is not multiple of the second number doubled");
+            System.out.println("The division of both numbers is suppose to be 0 not "+ answer);
         }
     }
 }
