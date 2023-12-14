@@ -7,7 +7,13 @@
     <list default="true" id="5e53dbbe-ce75-4501-8ead-ecd759cf0b86" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../CareerConnect/.idea/CareerConnect.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterTwo/Multiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/Multiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterTwo/BodyMassIndexCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterTwo/DiameterCircumferenceAndAreaOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterTwo/NegativePositiveAndZeroValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterTwo/StatisticsForTheGreatPyramidOfGiza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterTwo/TableOfSquaresAndCubes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterTwo/WorldPopulationGrowthCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +58,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Multiples">
-    <configuration name="ArithmeticSmallestAndLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterTwo.ArithmeticSmallestAndLargest" />
+  <component name="RunManager" selected="Application.NegativePositiveAndZeroValues">
+    <configuration name="BodyMassIndexCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterTwo.BodyMassIndexCalculator" />
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparingIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterTwo.ComparingIntegers" />
+    <configuration name="NegativePositiveAndZeroValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterTwo.NegativePositiveAndZeroValues" />
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisibleByThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterTwo.DivisibleByThree" />
+    <configuration name="StatisticsForTheGreatPyramidOfGiza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterTwo.StatisticsForTheGreatPyramidOfGiza" />
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestAndSmallestIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterTwo.LargestAndSmallestIntegers" />
+    <configuration name="TableOfSquaresAndCubes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterTwo.TableOfSquaresAndCubes" />
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterTwo.Multiples" />
+    <configuration name="WorldPopulationGrowthCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterTwo.WorldPopulationGrowthCalculator" />
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Multiples" />
-        <item itemvalue="Application.DivisibleByThree" />
-        <item itemvalue="Application.LargestAndSmallestIntegers" />
-        <item itemvalue="Application.ArithmeticSmallestAndLargest" />
-        <item itemvalue="Application.ComparingIntegers" />
+        <item itemvalue="Application.NegativePositiveAndZeroValues" />
+        <item itemvalue="Application.StatisticsForTheGreatPyramidOfGiza" />
+        <item itemvalue="Application.WorldPopulationGrowthCalculator" />
+        <item itemvalue="Application.BodyMassIndexCalculator" />
+        <item itemvalue="Application.TableOfSquaresAndCubes" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +145,7 @@
       <workItem from="1702461289067" duration="30402000" />
       <workItem from="1702506526688" duration="4000" />
       <workItem from="1702506647162" duration="7289000" />
-      <workItem from="1702556778570" duration="1372000" />
+      <workItem from="1702556778570" duration="10255000" />
     </task>
     <servers />
   </component>
