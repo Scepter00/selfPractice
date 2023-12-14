@@ -18,10 +18,10 @@ public class Multiples {
         int answer = num % num2;
 
         if (answer == 0) {
-            System.out.println("The triple of " + num + " is a multiple of the double of " + num2 + ": " + answer + ".");
+            System.out.println("The triple of the first number is: " + num + " The multiple of the second number doubled is: " + num2 + "\n The division of both number is: "  + answer + ".");
             }
         else {
-            System.out.println("Is a multiple of the second number doubled");
+            System.out.println(answer + " Is not multiple of the second number doubled");
         }
     }
 }
