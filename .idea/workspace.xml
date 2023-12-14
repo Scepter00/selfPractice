@@ -7,13 +7,6 @@
     <list default="true" id="5e53dbbe-ce75-4501-8ead-ecd759cf0b86" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../CareerConnect/.idea/CareerConnect.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterTwo/BodyMassIndexCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterTwo/DiameterCircumferenceAndAreaOfCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterTwo/NegativePositiveAndZeroValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterTwo/StatisticsForTheGreatPyramidOfGiza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterTwo/TableOfSquaresAndCubes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterTwo/WorldPopulationGrowthCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +138,7 @@
       <workItem from="1702461289067" duration="30402000" />
       <workItem from="1702506526688" duration="4000" />
       <workItem from="1702506647162" duration="7289000" />
-      <workItem from="1702556778570" duration="10255000" />
+      <workItem from="1702556778570" duration="10884000" />
     </task>
     <servers />
   </component>

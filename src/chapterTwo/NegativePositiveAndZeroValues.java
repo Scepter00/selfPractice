@@ -20,10 +20,10 @@ mines and prints the number of negative numbers input, the number of positive nu
         System.out.print("Enter your 3rd num: ");
         int num3 = input.nextInt();
 
-        System.out.print("Enter your 3rd num: ");
+        System.out.print("Enter your 4th num: ");
         int num4 = input.nextInt();
 
-        System.out.print("Enter your 3rd num: ");
+        System.out.print("Enter your 5th num: ");
         int num5 = input.nextInt();
 
         if (num > 0) {
