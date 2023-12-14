@@ -65,5 +65,29 @@ mines and prints the number of negative numbers input, the number of positive nu
         } else {
             System.out.println(num5 + " is zero");
         }
+
+        /*int positiveCount = 0;
+        int negativeCount = 0;
+        int zeroCount = 0;
+
+        for (int i = 0; i < 5; i++) {
+            System.out.print("Enter number " + (i + 1) + ": ");
+            double num = scanner.nextDouble();
+
+           if (num > 0) {
+                positiveCount++;
+            } else if (num < 0) {
+                negativeCount++;
+            } else {
+                zeroCount++;
+            }
+        }
+
+        System.out.println("Number of positive numbers: " + positiveCount);
+        System.out.println("Number of negative numbers: " + negativeCount);
+        System.out.println("Number of zeros: " + zeroCount);
+    }
+*/
+
     }
 }
