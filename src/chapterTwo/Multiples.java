@@ -21,7 +21,7 @@ public class Multiples {
             System.out.println("The triple of " + num + " is a multiple of the double of " + num2 + ": " + answer + ".");
             }
         else {
-            System.out.println("");
+            System.out.println("Is a multiple of the second number doubled");
         }
     }
 }
