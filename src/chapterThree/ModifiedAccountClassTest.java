@@ -23,6 +23,6 @@ class ModifiedAccountClassTest {
     void withdrawTest() {
         modifiedAccountClass.withdraw(6000);
         double balance = modifiedAccountClass.getBalance();
-        assertEquals(6000, balance);
+        assertEquals(0, balance);
     }
 }
