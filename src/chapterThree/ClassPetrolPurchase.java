@@ -52,12 +52,7 @@ public class ClassPetrolPurchase {
             this.petrolDiscount = petrolDiscount;
         }
 
-        public double getPetrolDiscount() {
-            return petrolDiscount;
-        }
-
-        public double getPurchaseAmount() {
-            double purchaseAmount = 0;
-            return purchaseAmount * literOfPetrol;
+        public double purchase(double purchaseAmount) {
+            return purchaseAmount * literOfPetrol - petrolDiscount;
         }
 }

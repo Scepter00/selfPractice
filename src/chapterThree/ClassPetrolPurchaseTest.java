@@ -14,6 +14,9 @@ class ClassPetrolPurchaseTest {
 
     @Test
     void purchaseAmountTest() {
-        classPetrolPurchase.getPurchaseAmount();
+        double purchaseAmount = classPetrolPurchase.purchase(57.384);
+        double expectedAmount = 57.384 * 630.63 - 2.50;
+
+        assertEquals(expectedAmount, purchaseAmount);
     }
 }

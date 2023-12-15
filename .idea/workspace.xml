@@ -7,7 +7,8 @@
     <list default="true" id="5e53dbbe-ce75-4501-8ead-ecd759cf0b86" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../CareerConnect/.idea/CareerConnect.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterThree/ModifiedAccountClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/ModifiedAccountClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterThree/ClassPetrolPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/ClassPetrolPurchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterThree/ClassPetrolPurchaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/ClassPetrolPurchaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
       <recent name="chapterThree" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ModifiedAccountClassTest.withdrawTest">
+  <component name="RunManager" selected="JUnit.ClassPetrolPurchaseTest.purchaseAmountTest">
     <configuration name="NegativePositiveAndZeroValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapterTwo.NegativePositiveAndZeroValues" />
       <module name="selfPractice" />
@@ -82,15 +83,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StatisticsForTheGreatPyramidOfGiza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterTwo.StatisticsForTheGreatPyramidOfGiza" />
+    <configuration name="ClassPetrolPurchaseTest.purchaseAmountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterTwo.*" />
+          <option name="PATTERN" value="chapterThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.ClassPetrolPurchaseTest" />
+      <option name="METHOD_NAME" value="purchaseAmountTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -145,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ClassPetrolPurchaseTest.purchaseAmountTest" />
         <item itemvalue="JUnit.ModifiedAccountClassTest.withdrawTest" />
         <item itemvalue="JUnit.ModifiedAccountClassTest.checkBalanceTest" />
         <item itemvalue="JUnit.ModifiedAccountClassTest.depositMoneyTest" />
         <item itemvalue="Application.NegativePositiveAndZeroValues" />
-        <item itemvalue="Application.StatisticsForTheGreatPyramidOfGiza" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +168,7 @@
       <workItem from="1702461289067" duration="30402000" />
       <workItem from="1702506526688" duration="4000" />
       <workItem from="1702506647162" duration="7289000" />
-      <workItem from="1702556778570" duration="21697000" />
+      <workItem from="1702556778570" duration="28468000" />
     </task>
     <servers />
   </component>
