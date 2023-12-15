@@ -25,7 +25,6 @@ draw that withdraws money from an Account. Ensure that the withdrawal amount doe
     }
 
     public void withdraw(double withdrawalAmount) {
-        // Ensure the withdrawal amount is positive
         if (withdrawalAmount > 0) {
             if (withdrawalAmount <= balance) {
                 balance -= withdrawalAmount;
