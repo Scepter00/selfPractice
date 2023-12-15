@@ -9,9 +9,11 @@ class ClassPetrolPurchaseTest {
     ClassPetrolPurchase classPetrolPurchase;
     @BeforeEach
     void startAllTestWIth() {
-        classPetrolPurchase = new ClassPetrolPurchase("Total","Diesel", 55, 10.5, 70);
+        classPetrolPurchase = new ClassPetrolPurchase("Total","Petrol", 91, 630.63, 2.50);
     }
 
     @Test
-    void
+    void purchaseAmountTest() {
+        classPetrolPurchase.getPurchaseAmount();
+    }
 }
