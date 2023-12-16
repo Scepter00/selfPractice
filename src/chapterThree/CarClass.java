@@ -21,6 +21,9 @@ pabilities. Create two Car objects and display each object’s price. Then apply
         if (price >= 0.0) {
             this.price = price;
         }
+        else {
+            System.out.println("Price is not positive");
+        }
     }
 
     public void setModel(String model) {
