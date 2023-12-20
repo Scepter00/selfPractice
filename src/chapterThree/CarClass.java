@@ -18,7 +18,7 @@ pabilities. Create two Car objects and display each object’s price. Then apply
         this.year = year;
         this.price = price;
 
-        if (price >= 0.0) {
+        if (price > 0.0) {
             this.price = price;
         }
         else {

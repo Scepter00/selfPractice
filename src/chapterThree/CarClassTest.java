@@ -14,6 +14,7 @@ class CarClassTest {
 
     @Test
     void priceTest() {
+
     }
 
 }
