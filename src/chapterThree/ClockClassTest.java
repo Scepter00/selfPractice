@@ -9,14 +9,21 @@ class ClockClassTest {
     ClockClass clockClass;
     @BeforeEach
     void tartAllTestWIth() {
-        clockClass = new ClockClass(25, 30, 0);
+        clockClass = new ClockClass(23, 30, 0);
     }
 
     @Test
     void testHour() {
+        assertEquals(23, clockClass.getHour());
     }
 
-    //@Test
+    @Test
+    void testMinute() {
+        assertEquals(30, clockClass.getMinute());
+    }
 
-    //@Test
+    @Test
+    void testSecond() {
+        assertEquals(0, clockClass.getSecond());
+    }
 }
