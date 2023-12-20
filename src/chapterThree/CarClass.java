@@ -51,6 +51,11 @@ pabilities. Create two Car objects and display each object’s price. Then apply
     }
 
     public void discount(double percentage) {
-
+        if (percentage > 0.0 && percentage < 100.0) {
+            double discountAmount = price * (percentage / 100.0);
+            price -= discountAmount;
+        } else {
+            System.out.println("Invalid discount percentage");
+        }
     }
 }
