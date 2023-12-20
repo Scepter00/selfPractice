@@ -7,7 +7,9 @@
     <list default="true" id="5e53dbbe-ce75-4501-8ead-ecd759cf0b86" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../CareerConnect/.idea/CareerConnect.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapterThree/CarClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/CarClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterThree/CarClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/CarClassTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,38 @@
       <recent name="chapterThree" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ClassPetrolPurchaseTest">
+  <component name="RunManager" selected="JUnit.CarClassTest">
+    <configuration name="CarClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.CarClassTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarClassTest.startAllTestWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.CarClassTest" />
+      <option name="METHOD_NAME" value="startAllTestWith" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClassPetrolPurchaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
@@ -84,22 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassPetrolPurchaseTest.purchaseAmountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.ClassPetrolPurchaseTest" />
-      <option name="METHOD_NAME" value="purchaseAmountTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ModifiedAccountClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
@@ -111,22 +128,6 @@
       <option name="PACKAGE_NAME" value="chapterThree" />
       <option name="MAIN_CLASS_NAME" value="chapterThree.ModifiedAccountClassTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ModifiedAccountClassTest.depositMoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.ModifiedAccountClassTest" />
-      <option name="METHOD_NAME" value="depositMoneyTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CarClassTest" />
+        <item itemvalue="JUnit.CarClassTest.startAllTestWith" />
         <item itemvalue="JUnit.ClassPetrolPurchaseTest" />
         <item itemvalue="JUnit.ModifiedAccountClassTest" />
         <item itemvalue="JUnit.ModifiedAccountClassTest.withdrawTest" />
-        <item itemvalue="JUnit.ModifiedAccountClassTest.depositMoneyTest" />
-        <item itemvalue="JUnit.ClassPetrolPurchaseTest.purchaseAmountTest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +171,7 @@
       <workItem from="1702506647162" duration="7289000" />
       <workItem from="1702556778570" duration="28779000" />
       <workItem from="1702720441152" duration="755000" />
-      <workItem from="1703074110232" duration="2325000" />
+      <workItem from="1703074110232" duration="3973000" />
     </task>
     <servers />
   </component>

@@ -22,7 +22,7 @@ pabilities. Create two Car objects and display each object’s price. Then apply
             this.price = price;
         }
         else {
-            System.out.println("Price is not positive");
+            throw new IllegalArgumentException("Price must be a positive value");
         }
     }
 
@@ -55,7 +55,7 @@ pabilities. Create two Car objects and display each object’s price. Then apply
             double discountAmount = price * (percentage / 100.0);
             price -= discountAmount;
         } else {
-            System.out.println("Invalid discount percentage");
+            throw new IllegalArgumentException("Invalid discount percentage");
         }
     }
 }
