@@ -14,7 +14,7 @@ class CarClassTest {
 
     @Test
     void priceTest() {
-
+        carClass.setPrice();
     }
 
 }

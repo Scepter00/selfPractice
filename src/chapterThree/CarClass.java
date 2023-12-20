@@ -50,11 +50,7 @@ pabilities. Create two Car objects and display each object’s price. Then apply
         return price;
     }
 
-    public double getDiscount() {
-        return price - 250;
-    }
+    public void discount(double percentage) {
 
-    public double getDiscount2() {
-        return price - 350;
     }
 }
