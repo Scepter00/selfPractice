@@ -70,8 +70,8 @@
       <recent name="chapterThree" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TargetHeartRateCalculatorTest.testMinTargetRate">
-    <configuration name="TargetHeartRateCalculatorTest.testAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TargetHeartRateCalculatorTest.testLastName">
+    <configuration name="TargetHeartRateCalculatorTest.testLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
@@ -81,23 +81,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="chapterThree" />
       <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
-      <option name="METHOD_NAME" value="testAge" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TargetHeartRateCalculatorTest.testMaxHeartRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
-      <option name="METHOD_NAME" value="testMaxHeartRate" />
+      <option name="METHOD_NAME" value="testLastName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,13 +135,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TargetHeartRateCalculatorTest.testName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
+      <option name="METHOD_NAME" value="testName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testLastName" />
+        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testName" />
         <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testMinTargetRate" />
         <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testMaxTargetRate" />
         <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testMinHeartRate" />
-        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testMaxHeartRate" />
-        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testAge" />
       </list>
     </recent_temporary>
   </component>

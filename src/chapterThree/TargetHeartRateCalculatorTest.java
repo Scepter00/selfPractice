@@ -14,7 +14,12 @@ class TargetHeartRateCalculatorTest {
 
     @Test
     void testName() {
-        assertEquals();
+        assertEquals("Ebuka", targetHeartRateCalculator.getFirstName());
+    }
+
+    @Test
+    void testLastName() {
+        assertEquals("Chukwunenye", targetHeartRateCalculator.getLastName());
     }
 
     @Test
