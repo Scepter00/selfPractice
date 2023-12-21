@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class ClockClassTest {
     ClockClass clockClass;
     @BeforeEach
-    void tartAllTestWIth() {
+    void startAllTestWIth() {
         clockClass = new ClockClass(23, 30, 0);
     }
 
