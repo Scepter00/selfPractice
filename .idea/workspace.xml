@@ -7,6 +7,9 @@
     <list default="true" id="5e53dbbe-ce75-4501-8ead-ecd759cf0b86" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../CareerConnect/.idea/CareerConnect.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterThree/TargetHeartRateCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/TargetHeartRateCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterThree/TargetHeartRateCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/TargetHeartRateCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -67,8 +70,8 @@
       <recent name="chapterThree" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ClockClassTest">
-    <configuration name="CarClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TargetHeartRateCalculatorTest.testMinTargetRate">
+    <configuration name="TargetHeartRateCalculatorTest.testAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
@@ -77,29 +80,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.CarClassTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarClassTest.startAllTestWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.CarClassTest" />
-      <option name="METHOD_NAME" value="startAllTestWith" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
+      <option name="METHOD_NAME" value="testAge" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassPetrolPurchaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TargetHeartRateCalculatorTest.testMaxHeartRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
@@ -108,13 +96,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.ClassPetrolPurchaseTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
+      <option name="METHOD_NAME" value="testMaxHeartRate" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClockClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TargetHeartRateCalculatorTest.testMaxTargetRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
@@ -123,13 +112,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.ClockClassTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
+      <option name="METHOD_NAME" value="testMaxTargetRate" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClockClassTest.testHour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TargetHeartRateCalculatorTest.testMinHeartRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +128,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.ClockClassTest" />
-      <option name="METHOD_NAME" value="testHour" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
+      <option name="METHOD_NAME" value="testMinHeartRate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TargetHeartRateCalculatorTest.testMinTargetRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
+      <option name="METHOD_NAME" value="testMinTargetRate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ClockClassTest" />
-        <item itemvalue="JUnit.ClockClassTest.testHour" />
-        <item itemvalue="JUnit.CarClassTest.startAllTestWith" />
-        <item itemvalue="JUnit.CarClassTest" />
-        <item itemvalue="JUnit.ClassPetrolPurchaseTest" />
+        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testMinTargetRate" />
+        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testMaxTargetRate" />
+        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testMinHeartRate" />
+        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testMaxHeartRate" />
+        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testAge" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +175,7 @@
       <workItem from="1702556778570" duration="28779000" />
       <workItem from="1702720441152" duration="755000" />
       <workItem from="1703074110232" duration="12929000" />
-      <workItem from="1703174549417" duration="2258000" />
+      <workItem from="1703174549417" duration="6036000" />
     </task>
     <servers />
   </component>

@@ -78,7 +78,7 @@ heart-rate range.*/
         public double getWeight() { return weight; }
 
         public int getAge() {
-            return 2022 - yearOfBirth;
+            return 2023 - yearOfBirth;
         }
 
         public int getHeartMaxRate() {
