@@ -9,7 +9,8 @@ class TargetHeartRateCalculatorTest {
     TargetHeartRateCalculator targetHeartRateCalculator;
     @BeforeEach
     void startAllWith() {
-        targetHeartRateCalculator = new TargetHeartRateCalculator("Ebuka", "Chukwunenye", "Male", 26, 6, 2001, 2.25, 80.5);
+        targetHeartRateCalculator = new TargetHeartRateCalculator("Ebuka", "Chukwunenye", "Male",
+                26, 6, 2001, 2.25, 80.5);
     }
 
     @Test
