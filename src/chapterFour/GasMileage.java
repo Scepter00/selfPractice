@@ -13,11 +13,15 @@ public class GasMileage {
     private int totalMiles;
     private int totalGallons;
 
+    public GasMileage(int miles, int gallons) {
+        totalMiles += miles;
+        totalGallons += gallons;
+    }
     public void recordTrip(int miles, int gallons) {
         totalMiles += miles;
         totalGallons += gallons;
     }
-    public double calculateMilesPerGallon() {
+    public double MilesPerGallon() {
         if (totalGallons == 0) {
             return 0.0;
         }

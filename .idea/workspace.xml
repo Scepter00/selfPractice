@@ -7,6 +7,9 @@
     <list default="true" id="5e53dbbe-ce75-4501-8ead-ecd759cf0b86" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../CareerConnect/.idea/CareerConnect.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterFour/GasMileage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/GasMileage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterFour/GasMileageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/GasMileageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,86 +67,98 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="chapterFour" />
+      <recent name="" />
       <recent name="chapterThree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice" />
-      <module name="selfPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComputerizationOfHealthRecordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.GasMileageTest">
+    <configuration name="GasMileageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
+          <option name="PATTERN" value="chapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.ComputerizationOfHealthRecordsTest" />
+      <option name="PACKAGE_NAME" value="chapterFour" />
+      <option name="MAIN_CLASS_NAME" value="chapterFour.GasMileageTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerizationOfHealthRecordsTest.testBMI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GasMileageTest.testMilesPerGallon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
+          <option name="PATTERN" value="chapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.ComputerizationOfHealthRecordsTest" />
-      <option name="METHOD_NAME" value="testBMI" />
+      <option name="PACKAGE_NAME" value="chapterFour" />
+      <option name="MAIN_CLASS_NAME" value="chapterFour.GasMileageTest" />
+      <option name="METHOD_NAME" value="testMilesPerGallon" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerizationOfHealthRecordsTest.testFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GasMileageTest.testRecordTrip" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
+          <option name="PATTERN" value="chapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.ComputerizationOfHealthRecordsTest" />
-      <option name="METHOD_NAME" value="testFirstName" />
+      <option name="PACKAGE_NAME" value="chapterFour" />
+      <option name="MAIN_CLASS_NAME" value="chapterFour.GasMileageTest" />
+      <option name="METHOD_NAME" value="testRecordTrip" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetHeartRateCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GasMileageTest.testTotalGallons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
+          <option name="PATTERN" value="chapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="chapterFour" />
+      <option name="MAIN_CLASS_NAME" value="chapterFour.GasMileageTest" />
+      <option name="METHOD_NAME" value="testTotalGallons" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GasMileageTest.testTotalMiles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterFour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterFour" />
+      <option name="MAIN_CLASS_NAME" value="chapterFour.GasMileageTest" />
+      <option name="METHOD_NAME" value="testTotalMiles" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="JUnit.ComputerizationOfHealthRecordsTest" />
-        <item itemvalue="JUnit.ComputerizationOfHealthRecordsTest.testBMI" />
-        <item itemvalue="JUnit.ComputerizationOfHealthRecordsTest.testFirstName" />
-        <item itemvalue="JUnit.TargetHeartRateCalculatorTest" />
+        <item itemvalue="JUnit.GasMileageTest" />
+        <item itemvalue="JUnit.GasMileageTest.testTotalGallons" />
+        <item itemvalue="JUnit.GasMileageTest.testMilesPerGallon" />
+        <item itemvalue="JUnit.GasMileageTest.testTotalMiles" />
+        <item itemvalue="JUnit.GasMileageTest.testRecordTrip" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +178,7 @@
       <workItem from="1703074110232" duration="12929000" />
       <workItem from="1703174549417" duration="6505000" />
       <workItem from="1703201186009" duration="5867000" />
-      <workItem from="1703248913704" duration="1850000" />
+      <workItem from="1703248913704" duration="5251000" />
     </task>
     <servers />
   </component>
