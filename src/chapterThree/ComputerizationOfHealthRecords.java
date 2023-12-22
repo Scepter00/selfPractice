@@ -93,4 +93,7 @@ son’s first name, last name, gender, date of birth, height and weight—then c
     public double getMaxTargetRate() {
         return 0.85 * getHeartMaxRate();
     }
+    public double getBMI() {
+        return (weight * 703) / (height * height);
+    }
 }
