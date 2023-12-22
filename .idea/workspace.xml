@@ -8,7 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../CareerConnect/.idea/CareerConnect.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterThree/ComputerizationOfHealthRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/ComputerizationOfHealthRecords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterThree/ComputerizationOfHealthRecordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/ComputerizationOfHealthRecordsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,54 @@
       <recent name="chapterThree" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TargetHeartRateCalculatorTest">
+  <component name="RunManager" selected="JUnit.ComputerizationOfHealthRecordsTest">
+    <configuration name="ComputerizationOfHealthRecordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.ComputerizationOfHealthRecordsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerizationOfHealthRecordsTest.testBMI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.ComputerizationOfHealthRecordsTest" />
+      <option name="METHOD_NAME" value="testBMI" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerizationOfHealthRecordsTest.testFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.ComputerizationOfHealthRecordsTest" />
+      <option name="METHOD_NAME" value="testFirstName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TargetHeartRateCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
@@ -101,61 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetHeartRateCalculatorTest.testMaxTargetRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
-      <option name="METHOD_NAME" value="testMaxTargetRate" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TargetHeartRateCalculatorTest.testMinTargetRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
-      <option name="METHOD_NAME" value="testMinTargetRate" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TargetHeartRateCalculatorTest.testName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapterThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapterThree" />
-      <option name="MAIN_CLASS_NAME" value="chapterThree.TargetHeartRateCalculatorTest" />
-      <option name="METHOD_NAME" value="testName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ComputerizationOfHealthRecordsTest" />
+        <item itemvalue="JUnit.ComputerizationOfHealthRecordsTest.testBMI" />
+        <item itemvalue="JUnit.ComputerizationOfHealthRecordsTest.testFirstName" />
         <item itemvalue="JUnit.TargetHeartRateCalculatorTest" />
         <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testLastName" />
-        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testName" />
-        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testMinTargetRate" />
-        <item itemvalue="JUnit.TargetHeartRateCalculatorTest.testMaxTargetRate" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +173,7 @@
       <workItem from="1702720441152" duration="755000" />
       <workItem from="1703074110232" duration="12929000" />
       <workItem from="1703174549417" duration="6505000" />
-      <workItem from="1703201186009" duration="1922000" />
+      <workItem from="1703201186009" duration="3882000" />
     </task>
     <servers />
   </component>

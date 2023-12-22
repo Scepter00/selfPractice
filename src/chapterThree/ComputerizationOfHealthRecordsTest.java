@@ -1,11 +1,13 @@
 package chapterThree;
 
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 class ComputerizationOfHealthRecordsTest {
     ComputerizationOfHealthRecords computerizationOfHealthRecords;
+    @BeforeEach
     void startTestWith() {
         computerizationOfHealthRecords = new ComputerizationOfHealthRecords("Ebuka", "Chukwunenye", "Male",
                 26, 6, 2001, 2.25, 80.5);
@@ -43,7 +45,7 @@ class ComputerizationOfHealthRecordsTest {
 
     @Test
     void testBMI() {
-        assertEquals(11_178.56790123457, computerizationOfHealthRecords.getBMI());
+        assertEquals(11_178.567901234568, computerizationOfHealthRecords.getBMI());
     }
 
     @Test
