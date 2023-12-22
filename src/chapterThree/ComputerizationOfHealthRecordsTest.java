@@ -25,4 +25,39 @@ class ComputerizationOfHealthRecordsTest {
     void testGender() {
         assertEquals("Male", computerizationOfHealthRecords.getGender());
     }
+
+    @Test
+    void testHeight() {
+        assertEquals(2.25, computerizationOfHealthRecords.getHeight());
+    }
+
+    @Test
+    void testWeight() {
+        assertEquals(80.5, computerizationOfHealthRecords.getWeight());
+    }
+
+    @Test
+    void testAge() {
+        assertEquals(22, computerizationOfHealthRecords.getAge());
+    }
+
+    @Test
+    void testBMI() {
+        assertEquals(11_178.56790123457, computerizationOfHealthRecords.getBMI());
+    }
+
+    @Test
+    void testMaxHeartRate() {
+        assertEquals(-1_781.0, computerizationOfHealthRecords.getHeartMaxRate());
+    }
+
+    @Test
+    void testMinTargetHeartRate() {
+        assertEquals(-890.5, computerizationOfHealthRecords.getMinTargetRate());
+    }
+
+    @Test
+    void testMaxTargetHeartRate() {
+        assertEquals(-1_513.85, computerizationOfHealthRecords.getMaxTargetRate());
+    }
 }
