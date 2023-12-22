@@ -80,6 +80,17 @@ son’s first name, last name, gender, date of birth, height and weight—then c
     public double getWeight() { return weight; }
 
     public int getAge() {
-        return 2022 - yearOfBirth;
+        return 2023 - yearOfBirth;
+    }
+
+    public int getHeartMaxRate() {
+        return 220 - yearOfBirth;
+    }
+
+    public double getMinTargetRate() {
+        return 0.5 * getHeartMaxRate();
+    }
+    public double getMaxTargetRate() {
+        return 0.85 * getHeartMaxRate();
     }
 }

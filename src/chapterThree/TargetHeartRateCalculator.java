@@ -92,4 +92,5 @@ heart-rate range.*/
         public double getMaxTargetRate() {
             return 0.85 * getHeartMaxRate();
         }
+
     }

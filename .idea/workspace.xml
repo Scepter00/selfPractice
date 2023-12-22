@@ -7,7 +7,6 @@
     <list default="true" id="5e53dbbe-ce75-4501-8ead-ecd759cf0b86" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../CareerConnect/.idea/CareerConnect.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterThree/ComputerizationOfHealthRecordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/ComputerizationOfHealthRecordsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +172,7 @@
       <workItem from="1702720441152" duration="755000" />
       <workItem from="1703074110232" duration="12929000" />
       <workItem from="1703174549417" duration="6505000" />
-      <workItem from="1703201186009" duration="855000" />
+      <workItem from="1703201186009" duration="1222000" />
     </task>
     <servers />
   </component>
