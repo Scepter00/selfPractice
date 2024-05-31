@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e53dbbe-ce75-4501-8ead-ecd759cf0b86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CareerConnect/.idea/CareerConnect.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFour/CreditLimitCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterFour/CreditLimitCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodLearning/GreetingMethod/Greet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterFour/GasMileage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/GasMileage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapterFour/GasMileageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/GasMileageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,13 +19,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/chapterFour/GasMileageTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -58,7 +61,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -72,7 +75,23 @@
       <recent name="chapterThree" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GasMileageTest">
+  <component name="RunManager" selected="JUnit.CreditLimitCalculatorTest.testCreditLimitExceeded">
+    <configuration name="CreditLimitCalculatorTest.testCreditLimitExceeded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterFour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterFour" />
+      <option name="MAIN_CLASS_NAME" value="chapterFour.CreditLimitCalculatorTest" />
+      <option name="METHOD_NAME" value="testCreditLimitExceeded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GasMileageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
@@ -99,22 +118,6 @@
       <option name="PACKAGE_NAME" value="chapterFour" />
       <option name="MAIN_CLASS_NAME" value="chapterFour.GasMileageTest" />
       <option name="METHOD_NAME" value="testMilesPerGallon" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GasMileageTest.testRecordTrip" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapterFour.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapterFour" />
-      <option name="MAIN_CLASS_NAME" value="chapterFour.GasMileageTest" />
-      <option name="METHOD_NAME" value="testRecordTrip" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CreditLimitCalculatorTest.testCreditLimitExceeded" />
         <item itemvalue="JUnit.GasMileageTest" />
         <item itemvalue="JUnit.GasMileageTest.testTotalGallons" />
         <item itemvalue="JUnit.GasMileageTest.testMilesPerGallon" />
         <item itemvalue="JUnit.GasMileageTest.testTotalMiles" />
-        <item itemvalue="JUnit.GasMileageTest.testRecordTrip" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +181,30 @@
       <workItem from="1703074110232" duration="12929000" />
       <workItem from="1703174549417" duration="6505000" />
       <workItem from="1703201186009" duration="5867000" />
-      <workItem from="1703248913704" duration="5251000" />
+      <workItem from="1703248913704" duration="6018000" />
+      <workItem from="1703256909423" duration="697000" />
+      <workItem from="1703349595578" duration="152000" />
+      <workItem from="1703917552024" duration="168000" />
+      <workItem from="1703917809944" duration="444000" />
+      <workItem from="1704788971204" duration="1505000" />
+      <workItem from="1704975346707" duration="84000" />
+      <workItem from="1704975481491" duration="317000" />
+      <workItem from="1706696749203" duration="8934000" />
+      <workItem from="1706862402950" duration="1323000" />
+      <workItem from="1707088970269" duration="853000" />
+      <workItem from="1707152274346" duration="77000" />
+      <workItem from="1707152415931" duration="113000" />
+      <workItem from="1707152953408" duration="37000" />
+      <workItem from="1707299888778" duration="365000" />
+      <workItem from="1707300306187" duration="555000" />
+      <workItem from="1707301241074" duration="360000" />
+      <workItem from="1612693861209" duration="50000" />
+      <workItem from="1612694198525" duration="657000" />
+      <workItem from="1707368296662" duration="358000" />
+      <workItem from="1707368708511" duration="813000" />
+      <workItem from="1707419811297" duration="617000" />
+      <workItem from="1707991901624" duration="890000" />
+      <workItem from="1717145782749" duration="1599000" />
     </task>
     <servers />
   </component>

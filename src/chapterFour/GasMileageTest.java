@@ -20,7 +20,7 @@ class GasMileageTest {
     @Test
     void testTotalGallons() {
         assertEquals(10, gasMileage.getTotalGallons());
-    }
+    }  
 
     @Test
     void testTotalMiles() {
