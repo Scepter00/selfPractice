@@ -10,5 +10,4 @@ public class Greeter {
         GreetingsEarthlingsGreeting greetingsEarthlingsGreeting = new GreetingsEarthlingsGreeting();
         greeter.greet(greetingsEarthlingsGreeting);
     }
-
 }
