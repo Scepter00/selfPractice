@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e53dbbe-ce75-4501-8ead-ecd759cf0b86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapterFour/CreditLimitCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterFour/CreditLimitCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodLearning/GreetingMethod/Greet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodLearning/GreetingMethod/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodLearning/GreetingMethod/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodLearning/GreetingMethod/GreetingsEarthlingsGreeting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterFour/GasMileageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/GasMileageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -75,7 +75,20 @@
       <recent name="chapterThree" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CreditLimitCalculatorTest.testCreditLimitExceeded">
+  <component name="RunManager" selected="Application.Greeter">
+    <configuration name="Greeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodLearning.GreetingMethod.Greeter" />
+      <module name="selfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methodLearning.GreetingMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CreditLimitCalculatorTest.testCreditLimitExceeded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selfPractice" />
       <extension name="coverage">
@@ -139,29 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GasMileageTest.testTotalMiles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapterFour.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapterFour" />
-      <option name="MAIN_CLASS_NAME" value="chapterFour.GasMileageTest" />
-      <option name="METHOD_NAME" value="testTotalMiles" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greeter" />
         <item itemvalue="JUnit.CreditLimitCalculatorTest.testCreditLimitExceeded" />
         <item itemvalue="JUnit.GasMileageTest" />
         <item itemvalue="JUnit.GasMileageTest.testTotalGallons" />
         <item itemvalue="JUnit.GasMileageTest.testMilesPerGallon" />
-        <item itemvalue="JUnit.GasMileageTest.testTotalMiles" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +201,7 @@
       <workItem from="1707368708511" duration="813000" />
       <workItem from="1707419811297" duration="617000" />
       <workItem from="1707991901624" duration="890000" />
-      <workItem from="1717145782749" duration="1599000" />
+      <workItem from="1717145782749" duration="3726000" />
     </task>
     <servers />
   </component>
